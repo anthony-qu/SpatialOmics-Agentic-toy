@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m pip install scanpy)",
+      "Bash(python3 try.py)",
+      "Bash(python3 -m pip install anthropic jupyter_client)"
+    ]
+  }
+}
